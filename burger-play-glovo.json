@@ -1,0 +1,302 @@
+{
+  "restaurant": {
+    "nom": "Burger Play",
+    "ville": "Tanger",
+    "plateforme": "Glovo",
+    "url": "https://glovoapp.com/fr/ma/tanger/stores/burger-play-tng",
+    "categorie": "Restaurant - Burgers",
+    "commande_minimum": "50,00 MAD",
+    "frais_supplement_si_sous_minimum": "5,00 MAD",
+    "logo": "https://glovo.dhmedia.io/image/customer-assets-glovo/store_logos/5233b7c52a087909a19f371ae1a2266f976708b8739c59da323af81c1921f809",
+    "banniere": "https://glovo.dhmedia.io/image/stores-glovo/stores/ad1b1e99e63fe88aa2ca316e51989616ecbea879a97f26cd54295e9bb13e219f",
+    "promotions": ["-30% sélection", "-40% avec Prime"]
+  },
+  "categories": [
+    {
+      "nom": "Promotions",
+      "produits": [
+        {
+          "nom": "Burger mozza chicken + Frite",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, GALETTE MOZZARELLA, 2 ONION RINGS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger mozza kefta + Frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, GALETTE MOZZARELLA, 2 ONION RINGS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "MONSTER Mozza !!!! + Frite",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, STEAK KEFTA DU BOUCHER 120g, GALETTE MOZZARELLA, 2 ONION RINGS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        }
+      ]
+    },
+    {
+      "nom": "Top des ventes",
+      "produits": [
+        {
+          "nom": "Burger kefta 1 + frite",
+          "description": "Pain brioché fait maison, 1 STEAK KEFTA DU BOUCHER 120g, 2 cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger oeuf bacon + frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, BACON, OMELETTE, OIGNONS CARAMELISÉS, cheddar, sauce au choix, salade, tomate + FRITE"
+        },
+        {
+          "nom": "Burger Raclette kefta + Frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, BACON, FROMAGE RACLETTE, OIGNONS CARAMELISÉS, sauce au choix, salade, tomate. + FRITE"
+        }
+      ]
+    },
+    {
+      "nom": "Classic level Burgers",
+      "produits": [
+        {
+          "nom": "Burger kefta 1 + frite",
+          "description": "Pain brioché fait maison, 1 STEAK KEFTA DU BOUCHER 120g, 2 cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger fish + Frite",
+          "description": "Pain brioché maison, POISSON PANÉ, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger poulet + frite",
+          "description": "Pain brioché fait maison, POULET, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger tandoori + frite",
+          "description": "Pain brioché fait maison, POULET MARINÉ AUX ÉPICES TANDOORI, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger curry + Frite",
+          "description": "Pain brioché fait maison, POULET MARINÉ AUX ÉPICES CURRY, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger tenders + frite",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        }
+      ]
+    },
+    {
+      "nom": "Kefta level burgers",
+      "produits": [
+        {
+          "nom": "Burger Raclette kefta + Frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, BACON, FROMAGE RACLETTE, OIGNONS CARAMELISÉS, sauce au choix, salade, tomate. + FRITE"
+        },
+        {
+          "nom": "Burger oeuf bacon + frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, BACON, OMELETTE, OIGNONS CARAMELISÉS, cheddar, sauce au choix, salade, tomate + FRITE"
+        },
+        {
+          "nom": "Burger chèvre miel + frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, MIEL, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger champignon + Frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, SAUCE CHAMPIGNONS, OIGNONS CARAMELISÉS, cheddar, salade, tomate, oignons. + FRITE."
+        },
+        {
+          "nom": "Burger fromage bleu + frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, SAUCE ROQUEFORT, cheddar, salade, tomate, oignons + FRITE"
+        }
+      ]
+    },
+    {
+      "nom": "Chicken level burger",
+      "produits": [
+        {
+          "nom": "Burger raclette chicken + Frites",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, BACON, FROMAGE RACLETTE, OIGNONS CARAMELISÉS, sauce au choix, salade, tomate. + FRITE"
+        },
+        {
+          "nom": "Burger tenders batata + Frite",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, GALETTE DE POMME DE TERRE cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger tandoori & curry + Frites",
+          "description": "Pain brioché fait maison, Escalope de poulet curry + Tandoori, poivrons grillés, cheddar, salade, tomate, oignons + FRITE vache qui rit, poivrons grillés"
+        },
+        {
+          "nom": "Burger poulet coréen + Frites",
+          "description": "Pain brioché fait maison, POULET FRIT CORÉEN, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger poulet crousti + Frite",
+          "description": "Pain brioché fait maison, POULET PANÉ TEMPURA, cheddar, sauces CROUSTI SECRETES +, salade, tomate, oignons + FRITE"
+        }
+      ]
+    },
+    {
+      "nom": "Boss level burgers",
+      "produits": [
+        {
+          "nom": "Burger Super KEFTA 4 + frite",
+          "description": "480g de viande !!!! Pain brioché fait maison, 4 STEAK KEFTA DU BOUCHER 120g, 8 cheddars, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger Super KEFTA 3 + frite",
+          "description": "360g de viande !!!! Pain brioché fait maison, 3 STEAK KEFTA DU BOUCHER 120g, 6 cheddars, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "MONSTER Mozza !!!! + Frite",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, STEAK KEFTA DU BOUCHER 120g, GALETTE MOZZARELLA, 2 ONION RINGS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger mozza kefta + Frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, GALETTE MOZZARELLA, 2 ONION RINGS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Burger mozza chicken + Frite",
+          "description": "Pain brioché fait maison, TENDERS CRISPY FRAIS, GALETTE MOZZARELLA, 2 ONION RINGS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        },
+        {
+          "nom": "Chicken Beef + Frite",
+          "description": "Pain brioché fait maison, STEAK KEFTA DU BOUCHER 120g, TENDERS CRISPY FRAIS, cheddar, sauce au choix, salade, tomate, oignons + FRITE"
+        }
+      ]
+    },
+    {
+      "nom": "Chicken Fried Home",
+      "produits": [
+        {
+          "nom": "Tenders x10",
+          "description": "10 Filets de tenders panure crispy fait maison + 3 sauces"
+        },
+        {
+          "nom": "Tenders x5",
+          "description": "5 Filets de tenders panure crispy fait maison + 2 sauces"
+        },
+        {
+          "nom": "Tenders x3",
+          "description": "3 Filets de tenders panure crispy fait maison + 1 sauce"
+        },
+        {
+          "nom": "Tenders x2",
+          "description": "2 Filets de tenders panure crispy fait maison"
+        },
+        {
+          "nom": "Tenders x1",
+          "description": "1 Filet de tenders panure crispy fait maison"
+        }
+      ]
+    },
+    {
+      "nom": "Starters",
+      "produits": [
+        {
+          "nom": "Trili Cheese X5",
+          "description": "5 Délicieux Trili cheese cheddar jalapenos fondants pour accompagner votre burger."
+        },
+        {
+          "nom": "Mozza cube x5",
+          "description": "5 Délicieux Mozza cubes fondants pour accompagner votre burger."
+        },
+        {
+          "nom": "Trili cheese cheddar x3",
+          "description": "3 Délicieux Trili cheese cheddar jalapenos fondants pour accompagner votre burger."
+        },
+        {
+          "nom": "Mozza cube x3",
+          "description": "3 Délicieux Mozza cubes fondants pour accompagner votre burger."
+        }
+      ]
+    },
+    {
+      "nom": "Fries",
+      "produits": [
+        {
+          "nom": "Frites Cheddar + Bacon",
+          "description": "Une généreuse portion de frite sauce cheddar + BACON pour accompagner votre burger !"
+        },
+        {
+          "nom": "Frites Cheddar + Pepperoni",
+          "description": "Une généreuse portion de frite sauce cheddar + PEPPERONI pour accompagner votre burger !"
+        },
+        {
+          "nom": "Frites Sauce Fromagère Maison + Bacon",
+          "description": "Une généreuse portion de frite sauce fromagère + BACON pour accompagner votre burger !"
+        },
+        {
+          "nom": "Frites Sauce Fromagère Maison - Pepperoni",
+          "description": "Une généreuse portion de frite sauce fromagère + PEPPERONI pour accompagner votre burger !"
+        },
+        {
+          "nom": "Frites Cheddar",
+          "description": "Une généreuse portion de frite sauce cheddar pour accompagner votre burger !"
+        },
+        {
+          "nom": "Frites Sauce Fromagère Maison",
+          "description": "Une généreuse portion de frite sauce fromagère pour accompagner votre burger !"
+        },
+        {
+          "nom": "Frites Nature",
+          "description": "Une généreuse portion de frite pour accompagner votre burger !"
+        }
+      ]
+    },
+    {
+      "nom": "Dessert",
+      "produits": [
+        {
+          "nom": "Tiramisu goût Oréo (Fait maison)",
+          "description": "Tiramisu goût Oréo fait maison. Tous les desserts sont faits maison. Peuvent arriver légèrement givrés (décongèle rapidement)."
+        },
+        {
+          "nom": "Tiramisu goût Spéculos (Fait maison)",
+          "description": "Tiramisu goût Spéculos fait maison. Tous les desserts sont faits maison. Peuvent arriver légèrement givrés (décongèle rapidement)."
+        }
+      ]
+    },
+    {
+      "nom": "Boissons",
+      "produits": [
+        { "nom": "Fanta Orange 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Fanta Citron 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Hawai Tropical 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Shweppes Mojito 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Pepsi 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Coca Cola 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "7 Up 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Pom's 25cl", "description": "Boisson gazeuse" },
+        { "nom": "Mirinda Pomme 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Mirinda Citron 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" },
+        { "nom": "Mirinda Orange 25cl", "description": "Le jeu est encore meilleur avec une bonne boisson fraiche !" }
+      ]
+    }
+  ],
+  "images": {
+    "logo": "https://glovo.dhmedia.io/image/customer-assets-glovo/store_logos/5233b7c52a087909a19f371ae1a2266f976708b8739c59da323af81c1921f809",
+    "banniere": "https://glovo.dhmedia.io/image/stores-glovo/stores/ad1b1e99e63fe88aa2ca316e51989616ecbea879a97f26cd54295e9bb13e219f",
+    "produits": [
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/c6eda482-cb31-426b-86b4-8c37b8094e79.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/0e44c13a-0ea9-4e04-af0e-04112078198e.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/2aa6f99d-35b9-4530-a072-cff54ea45cfd.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030805/ec9b6e7c-f8ff-44c0-8ae4-4aaaf9096230.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/13a8d0c2-32de-4aaa-8903-d7d5ab73bae2.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/98fe0880-f3ec-422f-bc20-a4bf4a193ced.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/4b6d8a60-a42b-4716-83a5-53532749d4dd.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030816/fabf1c3e-8519-4569-b7cc-aba6c201dfbf.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030827/a58d01d0-0b32-449b-841f-466fb73b02dc.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030832/8594806e-8b22-4f28-9f5f-4a80c5a080d5.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030833/a300f308-505d-4657-b81f-3451afc1970f.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/bd25fd9d-87b7-4670-9d67-c78a2dec7594.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/34789247-661d-4604-9283-802ad4c5c557.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/e1455691-76d8-4a19-9773-cecd999644e4.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/07d69dda-689d-4f56-9ee2-b05aa693f77d.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/896ec964-184b-433f-b39b-8e24f26b16c7.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/e78066f6-5f65-496a-82e1-5fb242cb67d6.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030836/8d61bc1b-f49b-4bd6-b792-be74c6f8e85d.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030837/be577f07-2fd6-45a5-ad79-405a0870c72a.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030807/d7aa0315-6330-4ae7-9d0f-471ee3e84468.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030808/6c6a27cf-4196-4e1d-b47b-a24fe20e0308.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030835/bfdcfefa-e14a-450d-8786-d5479b793b9d.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030806/0a05ac6a-d491-4a08-bbbf-5488d1482338.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030823/e7d9fb5f-9a73-4089-85ab-3e2c208f4c63.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030824/adc16895-f365-44b5-a172-782ea089c9b0.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030828/fa29176b-8f2c-4ae5-916e-58e14efcd87f.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030814/2ec5eea8-7ba8-4752-b32a-075bbee3b6f1.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030815/46f5ba61-9da3-4e20-a838-77aa8ca9d7e5.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030817/569d2c0d-9af4-4731-833e-0bacc2f38832.jpg",
+      "https://glovo.dhmedia.io/image/global-menu-service/GV_MA/vendor/902468/product/42097030819/55380a0a-7190-42b9-bb3e-dfd1b2153331.jpg"
+    ]
+  }
+}
